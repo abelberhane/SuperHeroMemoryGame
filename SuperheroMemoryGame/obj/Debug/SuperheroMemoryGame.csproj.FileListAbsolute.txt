@@ -1,0 +1,9 @@
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\bin\Debug\SuperheroMemoryGame.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\bin\Debug\SuperheroMemoryGame.exe
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\bin\Debug\SuperheroMemoryGame.pdb
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.Form1.resources
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.exe
+c:\users\abel\documents\visual studio 2017\Projects\SuperheroMemoryGame\SuperheroMemoryGame\obj\Debug\SuperheroMemoryGame.pdb
